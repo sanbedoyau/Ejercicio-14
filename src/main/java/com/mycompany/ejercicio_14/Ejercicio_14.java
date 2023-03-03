@@ -9,6 +9,6 @@ public class Ejercicio_14 {
         System.out.println("Ingrese el valor del número:");
         x = input.nextInt();
         System.out.println("El cuadrado de " + x + " es: " + Math.pow(x,2));
-        System.out.println("El cubo de " + x + " es: "+Math.pow(x,3));
+        System.out.println("El cubo de " + x + " es: " + Math.pow(x,3));
     }
 }
